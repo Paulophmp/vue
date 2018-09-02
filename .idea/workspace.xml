@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a775b3d-1791-4918-a5b2-b28144df4ea6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/starting_with_vue.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/example.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/example.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/tests/test.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/tests/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/dist/source/tests/test.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/@sindresorhus/is/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/dist/js/bootstrap.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/alert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/button.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/carousel.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/collapse.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/dropdown.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/modal.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/popover.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/scrollspy.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/tab.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/tooltip.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/dist/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/js/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_root.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_box-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_caret.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_text-hide.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/mixins/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_display.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_screenreaders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_shadows.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/bootstrap/scss/utilities/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/node_modules/lowercase-keys/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/node_modules/lowercase-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/node_modules/lowercase-keys/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/cacheable-request/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/clone-response/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/clone-response/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/clone-response/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/clone-response/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/core-util-is/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decode-uri-component/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decode-uri-component/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decode-uri-component/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decode-uri-component/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decompress-response/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decompress-response/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decompress-response/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/decompress-response/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/duplexer3/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/duplexer3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/duplexer3/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/duplexer3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/from2/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/get-stream/buffer-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/get-stream/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/get-stream/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/get-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/get-stream/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/got/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/got/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/got/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/got/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/got/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.nvmrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/.uglifyjsrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/badges.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/lib/has-symbol-support-x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/lib/has-symbol-support-x.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/lib/has-symbol-support-x.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/tests/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-symbol-support-x/tests/spec/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.nvmrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/.uglifyjsrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/badges.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/lib/has-to-string-tag-x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/lib/has-to-string-tag-x.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/lib/has-to-string-tag-x.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/has-to-string-tag-x/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/http-cache-semantics/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/http-cache-semantics/node4/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/http-cache-semantics/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/into-stream/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/into-stream/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/into-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/into-stream/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/.testem.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-object/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-plain-obj/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-plain-obj/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-plain-obj/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-plain-obj/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-retry-allowed/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-retry-allowed/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-retry-allowed/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/is-retry-allowed/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isarray/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/isurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/json-buffer/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/keyv/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/keyv/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/keyv/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/keyv/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/lowercase-keys/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/lowercase-keys/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/lowercase-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/lowercase-keys/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/mimic-response/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/mimic-response/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/mimic-response/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/mimic-response/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/normalize-url/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/normalize-url/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/normalize-url/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/normalize-url/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/object-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/object-assign/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/object-assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/object-assign/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-cancelable/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-cancelable/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-cancelable/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-cancelable/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-finally/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-finally/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-finally/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-finally/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-is-promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-is-promise/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-is-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-is-promise/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-timeout/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-timeout/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-timeout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/p-timeout/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/pify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/pify/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/pify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/pify/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/prepend-http/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/prepend-http/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/prepend-http/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/prepend-http/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/process-nextick-args/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/process-nextick-args/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/process-nextick-args/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/process-nextick-args/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/query-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/query-string/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/query-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/query-string/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/GOVERNANCE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/duplex-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/internal/streams/BufferList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/internal/streams/destroy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/internal/streams/stream-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/lib/internal/streams/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/readable-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/writable-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/responselike/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/responselike/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/responselike/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/responselike/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/safe-buffer/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/safe-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/sort-keys/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/sort-keys/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/sort-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/sort-keys/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/strict-uri-encode/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/strict-uri-encode/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/strict-uri-encode/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/strict-uri-encode/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/string_decoder/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/string_decoder/lib/string_decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/timed-out/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/timed-out/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/timed-out/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/timed-out/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-parse-lax/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-parse-lax/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-parse-lax/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-parse-lax/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-to-options/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-to-options/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-to-options/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/url-to-options/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/util-deprecate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/.circleci/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/dist/vue-resource.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/dist/vue-resource.esm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/dist/vue-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/dist/vue-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/client/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/client/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/client/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/client/xdr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/client/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/headers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/before.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/cors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/interceptor/method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/http/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/lib/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/lib/url-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/url/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/url/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/url/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/url/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/data/invalid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/data/text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/data/valid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/http.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/specs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/test/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/types/vue.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/types/vue_resource.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue-resource/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.esm.browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.esm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.runtime.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.runtime.esm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/dist/vue.runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/codegen/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/codegen/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/create-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/directives/bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/directives/on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/error-detector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/optimizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/parser/entity-decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/parser/filter-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/parser/html-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/parser/text-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/compiler/to-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/components/keep-alive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/global-api/assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/global-api/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/global-api/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/global-api/mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/global-api/use.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/lifecycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/bind-object-listeners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/bind-object-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/check-keycodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/render-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/render-slot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/render-static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/resolve-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render-helpers/resolve-slots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/instance/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/dep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/scheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/traverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/observer/watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/lang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/next-tick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/perf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/util/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/create-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/create-element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/create-functional-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/extract-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/get-first-component-child.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/is-async-placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/merge-hook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/normalize-children.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/resolve-async-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/helpers/update-listeners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/modules/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/modules/ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/core/vdom/vnode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/directives/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/directives/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/modules/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/compiler/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/entry-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/entry-runtime-with-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/entry-runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/entry-server-basic-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/entry-server-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/class-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/components/transition-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/directives/show.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/dom-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/node-ops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/runtime/transition-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/directives/show.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/modules/dom-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/server/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/web/util/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/append.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/component-root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/recycle-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-for.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/compiler/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/entry-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/entry-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/entry-runtime-factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/components/richtext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/components/transition-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/node-ops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/recycle-list/render-component-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/recycle-list/virtual-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/runtime/text-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/util/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/platforms/weex/util/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/bundle-renderer/source-map-support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/create-basic-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/create-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/optimizing-compiler/codegen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/optimizing-compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/optimizing-compiler/modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/optimizing-compiler/optimizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/optimizing-compiler/runtime-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/render-context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/render-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/template-renderer/create-async-file-mapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/template-renderer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/template-renderer/parse-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/template-renderer/template-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/webpack-plugin/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/webpack-plugin/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/webpack-plugin/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/server/write.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/sfc/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/shared/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/src/shared/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/types/options.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/types/plugin.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/types/vnode.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/node_modules/vue/types/vue.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course/package.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="starting_with_vue" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="99" lean-forward="true" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/course/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/course/package.json" />
+        <option value="$PROJECT_DIR$/course/js/app.js" />
+        <option value="$PROJECT_DIR$/course/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/course/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="88" />
+    <option name="width" value="1356" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="starting_with_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starting_with_vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="starting_with_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starting_with_vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="course" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="starting_with_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starting_with_vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../salic-minc" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a775b3d-1791-4918-a5b2-b28144df4ea6" name="Default" comment="" />
+      <created>1533651064542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533651064542</updated>
+      <workItem from="1533651065964" duration="5786000" />
+      <workItem from="1533663473990" duration="612000" />
+      <workItem from="1533735715301" duration="7045000" />
+      <workItem from="1535850987515" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13640000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="88" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16910689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/course/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="99" lean-forward="true" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="99" lean-forward="true" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
